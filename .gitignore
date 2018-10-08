@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+build/
+tutorials/rst-tutorials/
+IPython-*
+*.fits
+*.pdf
+*.png
+*.jpg
+*.pyc
+*.tex
+exec*.ipynb
